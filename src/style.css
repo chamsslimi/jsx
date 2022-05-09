@@ -1,0 +1,13 @@
+h1{
+    color:red;
+    text-align:center;
+}
+.hello{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+video{
+    margin-left: 500px;
+}
